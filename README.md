@@ -12,4 +12,4 @@ Lightweight container of nginx using Alpine as base image. Uses just 5MB of RAM 
 ### Containerized stuff:
 
  * [alpine:edge](https://hub.docker.com/_/alpine/) as base image
- * [nginx/1.10.3](https://www.nginx.com/) for the awesome syntax-highlighted editor
+ * [nginx/1.10.3](https://www.nginx.com/)
